@@ -22,34 +22,32 @@
 ## 🛠 Skills
 <p>
 <b>Programming Languages:</b><br>
-<img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<a href="#"><img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/python.png" alt="Python"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>
 <br><br>
 
 <b>Web Development:</b><br>
-<img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<a href="#"><img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/react-native.png" alt="React"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/django.png" alt="Django"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/></a>
 <br><br>
 
 <b>Database Management:</b><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<a href="#"><img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/></a>
 <br><br>
 
 <b>Cloud Technologies:</b><br>
-<img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<a href="#"><img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/></a>
 <br><br>
 
 <b>Machine Learning:</b><br>
-<img src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+  <a href="#"><img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="ML"/></a>
+  <a href="#"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" height="40" alt="OpenCV"/></a>
 </p>
 
 ---
