@@ -54,31 +54,31 @@
 
 ## 🚀 Featured Projects
 📌 **Student Learning Management System (E-LMS)** — Django + Bootstrap, role-based authentication for managing courses, assignments, and attendance.  
-🔗 https://github.com/YOUR-USERNAME/E-LMS-Project  
+🔗 https://github.com/Sravan-Kumar-710/learning-management-system 
 
 📌 **Crop Recommendation System** — ML system using Python & Scikit-learn to predict crops based on soil & climate data.  
-🔗 https://github.com/YOUR-USERNAME/Crop-Recommendation-System  
+🔗 https://github.com/Sravan-Kumar-710/crop-recommendation-system  
 
 📌 **Weather App** — Responsive weather app with React.js + API integration for real-time global weather insights.  
-🔗 https://github.com/YOUR-USERNAME/Weather-App  
+🔗 https://github.com/Sravan-Kumar-710/whether-app  
 
 ---
 
 ## 🏆 Coding Profiles
 <p align="left">
-  <a href="https://www.codechef.com/users/YOUR_USERNAME" target="blank">
+  <a href="https://www.codechef.com/users/klu_2200031005" target="blank">
     <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.stopstalk.com/user/profile/YOUR_USERNAME" target="blank">
+  <a href="https://www.stopstalk.com/user/profile/klu_2200031005" target="blank">
     <img src="https://avatars.githubusercontent.com/u/13419138?s=200&v=4" alt="StopStalk" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/YOUR_USERNAME" target="blank">
+  <a href="https://codeforces.com/profile/klu_2200031005" target="blank">
     <img src="https://sta.codeforces.com/s/64094/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="blank">
+  <a href="https://www.hackerrank.com/profile/klu_2200031005" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="40" width="40"/>
   </a>
 </p>
@@ -87,8 +87,8 @@
 
 ## 📫 Connect
 ✉️ Email: 2200031005cseh@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-💻 Portfolio: https://github.com/YOUR_USERNAME/Portfolio  
+🔗 LinkedIn: https://www.linkedin.com/in/sravan-kumar-b1067b187/ 
+💻 Portfolio: https://sravankumar710.netlify.app/  
 
 ---
 
