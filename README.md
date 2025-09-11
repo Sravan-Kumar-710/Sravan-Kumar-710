@@ -10,10 +10,8 @@
 
 <!-- Robot animation -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="robot animation" width="400"/>
+  <img src="https://miro.medium.com/v2/resize:fit:720/1*IRFvFRGJ6bnMRRZ26Uu2vw.gif" alt="Machine Learning Animation" width="500"/>
 </p>
-
-
 
 ---
 
