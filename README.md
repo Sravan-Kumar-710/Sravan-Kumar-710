@@ -87,7 +87,9 @@
 
 ## 📫 Connect
 ✉️ Email: 2200031005cseh@gmail.com  
+
 🔗 LinkedIn: https://www.linkedin.com/in/sravan-kumar-b1067b187/ 
+
 💻 Portfolio: https://sravankumar710.netlify.app/  
 
 ---
