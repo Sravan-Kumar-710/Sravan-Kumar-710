@@ -3,10 +3,16 @@
 
 <p align="center">
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=0e75b6&center=true&vCenter=true&width=720&lines=Hello!+I'm+Sravan+Kumar;Full+Stack+Developer;MERN+Stack+%7C+Machine+Learning+%7C+Cloud" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=0e75b6&center=true&vCenter=true&width=720&lines=Hello!+I'm+Sravan+Kumar;Full+Stack+Developer" alt="typing"/>
   <br/>
   <img src="assets/terminal.gif" alt="coding animation" width="720" />
 </p>
+
+<!-- Robot animation -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="robot animation" width="400"/>
+</p>
+
 
 
 ---
