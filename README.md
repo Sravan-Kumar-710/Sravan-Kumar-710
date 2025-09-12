@@ -8,11 +8,11 @@
   <img src="assets/terminal.gif" alt="coding animation" width="720" />
 </p>
 
-<!-- Robot animation -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="AI Robot Coding" width="400"/>
-</p>
+<!-- Robot / AI coding animation -->
 
+<p align="center"> 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="AI Robot Coding" width="400"/> 
+</p>
 
 ---
 
@@ -57,15 +57,77 @@
 
 ---
 
-## 🚀 Featured Projects
-📌 **Student Learning Management System (E-LMS)** — Django + Bootstrap, role-based authentication for managing courses, assignments, and attendance.  
-🔗 https://github.com/Sravan-Kumar-710/learning-management-system 
+## 🚀 Featured Projects  
 
-📌 **Crop Recommendation System** — ML system using Python & Scikit-learn to predict crops based on soil & climate data.  
-🔗 https://github.com/Sravan-Kumar-710/crop-recommendation-system  
+### 📌 [Student Learning Management System (E-LMS)](https://github.com/Sravan-Kumar-710/learning-management-system)  
+A full-stack academic management platform built with Django, Bootstrap, HTML5, and CSS3, featuring role-based authentication for secure access.  
 
-📌 **Weather App** — Responsive weather app with React.js + API integration for real-time global weather insights.  
-🔗 https://github.com/Sravan-Kumar-710/whether-app  
+🔹 **Features:**  
+- 👨‍🏫 **Faculty:** Create/manage courses, upload assignments, and track attendance.  
+- 🎓 **Students:** Access courses, submit assignments, and monitor progress.  
+- 🛠 **Admin:** Manage users, roles, and academic records.  
+
+**Tech Stack:**  
+<p>
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>  
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>  
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>  
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>  
+</p>  
+
+---
+
+### 📌 [Crop Recommendation System](https://github.com/Sravan-Kumar-710/crop-recommendation-system)  
+A Machine Learning web app built with Python, NumPy, Pandas, and Scikit-learn, designed to predict the best crops based on soil and climate conditions.  
+
+🔹 **Features:**  
+- 📊 Data preprocessing and feature engineering for accuracy.  
+- 🌱 ML-based crop prediction using classification algorithms.  
+- 🌍 Simple web interface for farmers and researchers.  
+
+**Tech Stack:**  
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>  
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"/>  
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>  
+</p>  
+
+---
+
+### 📌 [Weather App](https://github.com/Sravan-Kumar-710/whether-app)  
+A responsive weather app built using React.js and Bootstrap with API integration for real-time global weather insights.  
+
+🔹 **Features:**  
+- 🌦 Fetches live weather data (temperature, humidity, wind, etc.) via API.  
+- 📱 Responsive UI for desktop, tablet, and mobile.  
+- 🎨 Styled with Bootstrap for a clean look.  
+
+**Tech Stack:**  
+<p>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/>  
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>  
+  <img src="https://img.icons8.com/color/48/000000/api.png" alt="API"/>  
+</p>  
+
+---
+
+### 📌 [Portfolio Website](https://sravankumar710.netlify.app/)  
+A personal portfolio website showcasing projects, skills, and achievements. Built with React.js, Tailwind CSS, Bootstrap, and HTML5/CSS3.  
+
+🔹 **Features:**  
+- 🖥 Fully responsive design optimized for all devices.  
+- ⚡ Smooth animations and modern UI/UX.  
+- 🔗 Showcases projects, resume, and contact details.  
+
+**Tech Stack:**  
+<p>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/>  
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>  
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>  
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>  
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>  
+</p>  
+
 
 ---
 
